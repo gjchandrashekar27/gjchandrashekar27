@@ -11,3 +11,25 @@ Hi, I’m Chandrashekar GJ – a passionate and motivated Backend Developer with
 📧 Email: chandrashekargj27@gmail.com
 🔗 LinkedIn: Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chandrashekar-gj-b752a8334
 📸 Instagram: chandrashekar_cr7
+
+🛠️ Skills & Technologies
+Languages & Frameworks:
+Java, Spring Boot, HTML, CSS, JavaScript
+
+Backend Development:
+RESTful APIs, Spring Boot Architecture, MVC Pattern, JWT Authentication
+
+Databases:
+MySQL
+
+Tools & Platforms:
+Git & GitHub, Postman, VS Code, Maven
+
+Other:
+Object-Oriented Programming (OOP)
+
+🤝 Connect With Me
+📧 Email: chandrashekargj27@gmail.com
+
+Let’s build something great together! 🚀
+
