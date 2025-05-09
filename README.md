@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Chandrashekar GJ
-- 👀 I’m interested in **Backend Development**
-- 🌱 I’m currently learning **Java Full Stack**
-- 💞️ I’m looking to collaborate on **Spring Boot projects, REST APIs, and full-stack development**  
-- 📫 How to reach me [chandrashekargj27@gmail.com] 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact:  I can debug code faster with coffee in hand ☕💻
+👋 About Me
+Hi, I’m Chandrashekar GJ – a passionate and motivated Backend Developer with a growing interest in building robust, scalable web applications.
 
-<!---
-gjchandrashekar27/gjchandrashekar27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 I specialize in creating RESTful APIs and backend services using Spring Boot and Java, with a focus on clean code, performance, and security. I love solving real-world problems with technology and continuously improving my skills.
+
+🌱 Currently learning Java Full Stack Development and gaining hands-on experience in both frontend and backend technologies.
+
+💬 I enjoy collaborating on full-stack projects, backend modules, and API development. I'm always open to connect with like-minded developers and learn from the community.
+
+📫 Reach Me:
+📧 Email: chandrashekargj27@gmail.com
+🔗 LinkedIn: Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chandrashekar-gj-b752a8334
+📸 Instagram: chandrashekar_cr7
