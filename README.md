@@ -9,6 +9,7 @@ Hi, I’m Chandrashekar GJ – a passionate and motivated Backend Developer with
 
 📫 Reach Me:
 📧 Email: chandrashekargj27@gmail.com
+
 🔗 LinkedIn: Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chandrashekar-gj-b752a8334
 📸 Instagram: chandrashekar_cr7
 
