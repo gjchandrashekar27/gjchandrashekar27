@@ -15,21 +15,26 @@ Hi, I’m Chandrashekar GJ – a passionate and motivated Backend Developer with
 
 🛠️ Skills & Technologies
 Languages & Frameworks:
+
 Java, Spring Boot, HTML, CSS, JavaScript
 
 Backend Development:
+
 RESTful APIs, Spring Boot Architecture, MVC Pattern, JWT Authentication
 
 Databases:
+
 MySQL
 
 Tools & Platforms:
+
 Git & GitHub, Postman, VS Code, Maven
 
 Other:
 Object-Oriented Programming (OOP)
 
 🤝 Connect With Me
+
 📧 Email: chandrashekargj27@gmail.com
 
 Let’s build something great together! 🚀
