@@ -1,39 +1,53 @@
-👋 About Me
-Hi, I’m Chandrashekar GJ – a passionate and motivated Backend Developer with a growing interest in building robust, scalable web applications.
+# 👋 About Me
 
-💡 I specialize in developing RESTful APIs and backend services using Java and Spring Boot, focusing on clean code, performance, and security. I enjoy solving real-world challenges and continuously enhancing my skills.
+Hello, I’m **Chandrashekar GJ**, a dedicated Backend Developer passionate about building scalable and secure web applications. I specialize in developing **RESTful APIs** and backend services using **Java** and **Spring Boot**, focusing on clean code, performance, and security. I enjoy solving real-world problems and continuously expanding my skill set.
 
-🌱 I’m currently learning Java Full Stack Development and gaining hands-on experience in both frontend and backend technologies.
+---
 
-💬 I love collaborating on full-stack projects, backend modules, and API design. I'm always eager to connect with developers and share knowledge within the tech community.
+### 🔭 Currently Learning  
+- Java Full Stack Development  
+- Spring Security  
+- Microservices  
+  
+### 💡 Interested In  
+- Scalable Architectures  
+- API Security  
 
-🛠️ Skills & Technologies
+### 💬 Ask Me About  
+- Java  
+- Spring Boot  
+- REST APIs  
+- Microservices  
+- Backend Development  
 
-Languages & Frameworks:
+---
 
+## 🛠️ Skills & Technologies
+
+**Languages & Frameworks:**  
 Java • Spring Boot • HTML • CSS • JavaScript
 
-Backend Development:
-
+**Backend Development:**  
 RESTful APIs • Spring Boot Architecture • MVC Pattern • JWT Authentication
 
-Databases:
-
+**Databases:**  
 MySQL
 
-Tools & Platforms:
+**Tools & Platforms:**  
+Git & GitHub • Postman • Visual Studio Code • Maven
 
-Git & GitHub • Postman • VS Code • Maven
+**Other:**  
+Object-Oriented Programming (OOP) • Agile Methodologies
 
-Other:
+---
 
-Object-Oriented Programming (OOP) • Agile Practices
+## 📫 How to Reach Me
 
-🤝 Connect With Me
+📧 Email: [chandrashekargj27@gmail.com](mailto:chandrashekargj27@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/gjchandrashekar](https://www.linkedin.com/in/gjchandrashekar/)  
+📸 Instagram: [@chandrashekar_cr7](https://www.instagram.com/chandrashekar_cr7)  
+💻 GitHub: [github.com/gjchandrashekar27](https://github.com/gjchandrashekar27)
 
-📧 Email: chandrashekargj27@gmail.com
-🔗 LinkedIn: Follow me on LinkedIn
-📸 Instagram: @chandrashekar_cr7
-💻 GitHub: github.com/yourusername
+---
 
-Let’s connect, collaborate, and create something amazing together! 🚀
+I look forward to connecting and collaborating to create impactful software solutions! 🚀
