@@ -1,53 +1,21 @@
-# 👋 About Me
+# Hi, I'm Chandrashekar GJ 👋
 
-Hello, I’m **Chandrashekar GJ**, a dedicated Backend Developer passionate about building scalable and secure web applications. I specialize in developing **RESTful APIs** and backend services using **Java** and **Spring Boot**, focusing on clean code, performance, and security. I enjoy solving real-world problems and continuously expanding my skill set.
+🚀 Aspiring **Java Full Stack Developer** | Backend-Focused | Problem Solver
 
----
+💻 I specialize in building scalable backend applications using **Java**, **Spring Boot**, **Hibernate**, and **MySQL**. I'm also comfortable working on the frontend with **HTML**, **CSS**, **JavaScript**, and beginner-level **React.js**.
 
-### 🔭 Currently Learning  
-- Java Full Stack Development  
-- Spring Security  
-- Microservices  
-  
-### 💡 Interested In  
-- Scalable Architectures  
-- API Security  
+### 🛠️ Tech Stack
+- Backend: Java, Spring Boot, Spring MVC, Hibernate, JDBC
+- Database: MySQL, SQL (PL/SQL)
+- Frontend: HTML, CSS, JavaScript, React.js (Basics)
+- Tools: Postman, Git, GitHub, VS Code, IntelliJ
 
-### 💬 Ask Me About  
-- Java  
-- Spring Boot  
-- REST APIs  
-- Microservices  
-- Backend Development  
+### 📈 Projects
+- 🛍️ **Role-Based E-Commerce Platform** – Admin, Merchant, and Customer features with full authentication & CRUD.
+- ✅ **To-Do REST API** – Secure task management with user registration, login, and task operations.
+- 🎬 **Movie Management App** – RESTful API to manage movies with trailer, image, rating, etc.
 
----
+🔍 I’m passionate about backend development and always eager to learn new technologies and improve my skills.
 
-## 🛠️ Skills & Technologies
-
-**Languages & Frameworks:**  
-Java • Spring Boot • HTML • CSS • JavaScript
-
-**Backend Development:**  
-RESTful APIs • Spring Boot Architecture • MVC Pattern • JWT Authentication
-
-**Databases:**  
-MySQL
-
-**Tools & Platforms:**  
-Git & GitHub • Postman • Visual Studio Code • Maven
-
-**Other:**  
-Object-Oriented Programming (OOP) • Agile Methodologies
-
----
-
-## 📫 How to Reach Me
-
-📧 Email: [chandrashekargj27@gmail.com](mailto:chandrashekargj27@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/gjchandrashekar](https://www.linkedin.com/in/gjchandrashekar/)  
-📸 Instagram: [@chandrashekar_cr7](https://www.instagram.com/chandrashekar_cr7)  
-💻 GitHub: [github.com/gjchandrashekar27](https://github.com/gjchandrashekar27)
-
----
-
-I look forward to connecting and collaborating to create impactful software solutions! 🚀
+📫 Reach me at: chandrashekargj27@gmail.com  
+📌 [LinkedIn](https://www.linkedin.com/in/chandrashekargj/) | [GitHub](https://github.com/chandrashekargj)
