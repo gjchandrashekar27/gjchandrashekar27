@@ -10,12 +10,19 @@
 - Frontend: HTML, CSS, JavaScript, React.js (Basics)
 - Tools: Postman, Git, GitHub, VS Code, IntelliJ
 
-### 📈 Projects
-- 🛍️ **Role-Based E-Commerce Platform** – Admin, Merchant, and Customer features with full authentication & CRUD.
-- ✅ **To-Do REST API** – Secure task management with user registration, login, and task operations.
-- 🎬 **Movie Management App** – RESTful API to manage movies with trailer, image, rating, etc.
+📈 Projects
+🛍️ Role-Based E-Commerce Platform – Admin, Merchant, and Customer features with full authentication & CRUD.
+
+✅ To-Do REST API – Secure task management with user registration, login, and task operations.
+
+🎬 Movie Management App – RESTful API to manage movies with trailer, image, rating, etc.
+
+🎓 E-Learning (Jnana) – Currently developing an intuitive and scalable online learning platform using Java, Spring Boot, and modern frontend technologies to provide a seamless educational experience.
+
 
 🔍 I’m passionate about backend development and always eager to learn new technologies and improve my skills.
 
-📫 Reach me at: chandrashekargj27@gmail.com  
-📌 [LinkedIn](https://www.linkedin.com/in/chandrashekargj/) | [GitHub](https://github.com/chandrashekargj)
+📫 Reach me at:
+📌 [gmail](chandrashekargj27@gmail.com)  
+📌 [LinkedIn](https://www.linkedin.com/in/chandrashekargj/) 
+📌 [GitHub](https://github.com/chandrashekargj)
