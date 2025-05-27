@@ -26,5 +26,7 @@
 📫 Reach me at:
 
 📌 [gmail](chandrashekargj27@gmail.com)  
+
 📌 [LinkedIn](https://www.linkedin.com/in/chandrashekargj/) 
+
 📌 [GitHub](https://github.com/chandrashekargj)
