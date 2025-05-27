@@ -11,6 +11,7 @@
 - Tools: Postman, Git, GitHub, VS Code, IntelliJ
 
 📈 Projects
+
 🛍️ Role-Based E-Commerce Platform – Admin, Merchant, and Customer features with full authentication & CRUD.
 
 ✅ To-Do REST API – Secure task management with user registration, login, and task operations.
@@ -23,6 +24,7 @@
 🔍 I’m passionate about backend development and always eager to learn new technologies and improve my skills.
 
 📫 Reach me at:
+
 📌 [gmail](chandrashekargj27@gmail.com)  
 📌 [LinkedIn](https://www.linkedin.com/in/chandrashekargj/) 
 📌 [GitHub](https://github.com/chandrashekargj)
