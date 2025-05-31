@@ -29,6 +29,4 @@
 
 📌 [LinkedIn](https://www.linkedin.com/in/chandrashekargj/) 
 
-📌 [GitHub](https://github.com/chandrashekargj)
-
 📌 [Portfolio](https://gjchandrashekar27.github.io/portfolio/)
